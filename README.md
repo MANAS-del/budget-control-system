@@ -125,14 +125,3 @@ npm run dev
 * API validation improvements
 * Unit & integration testing
 
----
-
-## 📷 Screenshots
-
-(Add screenshots here)
-
----
-
-## 📄 License
-
-This project is for educational purposes.
