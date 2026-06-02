@@ -35,7 +35,7 @@ A full-stack web application designed to manage organizational budgets, track re
 
 ### Database
 
-* (Add your DB here: MySQL / PostgreSQL / etc.)
+* MySQL 
 
 ---
 
